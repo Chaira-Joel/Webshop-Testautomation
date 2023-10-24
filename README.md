@@ -4,3 +4,4 @@ In this repository you can find the automated tests that I have written for the 
 This webshop has all kinds of elements to interact with. A couple of things that I have made: 
 
 - Store the logged in state so you do not have to login every time a new test has to run. 
+![image](https://github.com/Chaira-Joel/Webshop-Testautomation/assets/79043671/259b8161-6311-4c36-ac07-b5fae3186da5)
