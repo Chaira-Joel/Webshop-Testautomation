@@ -10,7 +10,7 @@ export class MyAccount {
       "https://techblog.polteq.com/testshop/index.php?controller=my-account"
     );
   }
-  
+
   //locators
   myOrderHistoryButton = () =>
     this.page.locator('//*[@id="center_column"]/div/div[1]/ul/li[1]/a/span');
@@ -30,7 +30,6 @@ export class MyAccount {
   public async clickmyOrderHistoryButton() {
     await this.myOrderHistoryButton().click();
   }
-
   public async clickmyCreditslipsButton() {
     await this.myCreditslipsButton().click();
   }
@@ -40,7 +39,6 @@ export class MyAccount {
   public async clickmyPersonalInformationButton() {
     await this.myPersonalInformationButton().click();
   }
-
   public async clickmyFavoriteProductsButton() {
     await this.myFavoriteProductsButton().click();
   }
