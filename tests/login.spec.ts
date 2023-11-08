@@ -1,6 +1,4 @@
 import { test } from "./fixtures/basePage";
-import { Header } from "./pageobjectmodel/sections/header.section";
-import { contactPage } from "./pageobjectmodel/pages/contact.page";
 
 test("User should be able to login", async ({ header }) => {
   await header.goto();
@@ -13,7 +11,9 @@ test("User should be able to logout", async ({ header }) => {
   await header.assertLoggedout();
 });
 
-test("User should be able to send a message to customer service", async ({contactpage,}) => {
+test("User should be able to send a message to customer service", async ({
+  contactpage,
+}) => {
   await contactpage.goto();
   await contactpage.fillTextField();
   await contactpage.selectCustomerServiceFromDropdown();

@@ -2,10 +2,10 @@
   "cookies": [
     {
       "name": "PrestaShop-70b4333634d3a43eb35b437335761712",
-      "value": "xUPzbDkJIqQqS29tX74ZJJ91cNTmyO7TBrf2kQ0erLtIHZpC4kDOl33fFHD5jed7k1dV0b9dalqM88hSJvoh9sIEtM0KV771frfcCQ32VwFsexGgLgDpiO%2BArQ7mMD83AcQuVxtJnlPkA%2FUngFUcsRzvF3kQFCV6q%2B5410joaznh%2BWCsKCt1oAPNTQSlsuy0bpRHNilyNAvzg7cFHSzoRw71rqCyxwcw8KXkdXNKVzOAsWViGmOnOBvVlDOuks5vO6vk1Fi2QT%2BXaUsQQWC9b6PBRTMpZNDrDERD%2FRovYFSmnlMBjH8eNJRmyYDpicXK8MM3olGNbb9SezHXQLjCql7eQRx%2BixmHJfIRKvJMh3HYOyU3e9yWPOz1B6NgSWntHHE%2BLlGKylVFlYIESMsq%2FA%3D%3D000301",
+      "value": "xUPzbDkJIqQqS29tX74ZJKZPMl9E%2FxAWcxJbktLSTHEMhYva48kdHMxchvpjcAm1Nb0NAkCkUbNNHf2VIdpyHKkkS9ywFREPQQNtW0L5ZaqjKitiqhgo07QFkRDtaocnRjtOjSF0dphDk8ENeYtiDGtwFlJj0qAGEcwMsNYtOKvPavYqBzxZIgUw%2F%2F4bjOp3cL6jNZZsxDYPufzLuh7Y29t9BNxaOZFrfXcb6z05j7DVwbHqKH9Qb4C2NDsDW4hCHTdaz4XR5BDCqcG5Y9B%2FVDfE3UhCAoxFrFA5nhhrUm1BdY52iymnNKpnMjHD9%2BKpS%2BnsnVItvcrhvDrvNO6LIH7YAW3oPbxApw3Pni97vkkbIoTf7YuzKdUp1o73z%2B6fuy3NmLzFHKbV1wU9wlJDfg%3D%3D000301",
       "domain": ".techblog.polteq.com",
       "path": "/testshop/",
-      "expires": 1701199769.967467,
+      "expires": 1701200065.218782,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
