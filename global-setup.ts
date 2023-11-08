@@ -15,7 +15,7 @@ async function globalSetup() {
     "https://techblog.polteq.com/testshop/index.php?controller=my-account"
   );
 
-  await page.context().storageState({ path: "./auth/LoginAuth.json" });
+  await page.context().storageState({ path: "./.auth/LoginAuth.json" });
   await browser.close();
 }
 
