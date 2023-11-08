@@ -1,4 +1,4 @@
-import { test } from "./fixtures/basePage";
+import { test } from "../fixtures/basePage";
 
 test("User should be able to login", async ({ header }) => {
   await header.goto();
