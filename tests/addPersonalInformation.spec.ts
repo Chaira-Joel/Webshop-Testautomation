@@ -10,3 +10,4 @@ test("Should be able to add personal information", async ({ page }) => {
   await page.locator("#id_gender2").check();
   expect(await page.locator("#id_gender2").isChecked()).toBeTruthy();
 });
+    
