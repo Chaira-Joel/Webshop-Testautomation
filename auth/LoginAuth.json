@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "PrestaShop-70b4333634d3a43eb35b437335761712",
+      "value": "xUPzbDkJIqQqS29tX74ZJBjNxczlfzoiyCEX9pMN8Ry%2FfVxkqWCiy%2BTdsZdokPRXmdlvlxLYhFAsOnqVusgS%2F7zaCRvSoOwoqWqDdpeQlas1Z1ofvgO1A1AmFSLRfbFvKJx7ukVVXZzZ0gAdAJ8ztQO0tHuf3pnOj%2B%2B8ZOSwSpvzT1k2Qb921eb6VROtu4WiMF2QuK0I5XXj4a5RaDRDJs895V1FY35u%2FAiGVrwJOPRN8O1RHqp21xIl3j26kYCN5Gxt1XMCyK7uDuafmAy3xi6UtW2aOg97E%2BDSSfv9EOrbvOEagf7IV6ECd6GAD8nh40d2S9kMsaq%2BLfNoA1dXEPbrjMaMbpth1%2BTlR8uhMgVLCtcN3wCkoNCOPnS4p3v0Qijxvv1T%2Be%2FBPRjFlRhznSMLbYStHJNlXh2RMT6fC6E%3D000319",
+      "domain": ".techblog.polteq.com",
+      "path": "/testshop/",
+      "expires": 1701201002.60342,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
